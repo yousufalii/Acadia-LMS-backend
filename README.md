@@ -15,7 +15,7 @@ To get the LMS Backend up and running on your local machine, follow these steps:
 
 1. **Clone the repository:**
 ```
-git clone <repository-url>
+git clone https://github.com/yousufalii/Acadia-LMS-backend.git
 ```
   
   2. **Install the dependencies:**
