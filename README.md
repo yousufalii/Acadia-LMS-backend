@@ -1,6 +1,6 @@
-# SmartEd LMS Backend
+# Acadia LMS Backend
 
-Welcome to the SmartEd LMS Backend repository! 🏫 This powerful backend system is designed to support your Learning Management System (LMS) website, providing a seamless experience for managing assignments, quizzes, announcements, attendance, and results.
+Welcome to the Acadia LMS Backend repository! 🏫 This powerful backend system is designed to support your Learning Management System (LMS) website, providing a seamless experience for managing assignments, quizzes, announcements, attendance, and results.
 
 ## Prerequisites
 
